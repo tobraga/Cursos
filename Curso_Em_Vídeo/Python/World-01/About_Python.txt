@@ -14,3 +14,8 @@ python - linguagem de proposito geral
          O.O.
          muitas bibliotecas
 
+
+* Como o **Python** funciona
+
+    é um interpretador de linguagem de alto nivel para linguagem de baixo nivel (linguagem de máquina)
+
