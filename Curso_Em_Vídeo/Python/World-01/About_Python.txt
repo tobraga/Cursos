@@ -1,0 +1,16 @@
+
+1982 - Amsterdam (HOL) Guido Van Hossum: criar uma linguagem simples e interpretada.
+        lançada no inicio da decada de 90
+
+2001 - criaçao da fundação do python
+linguagem padrão que vem instalada nos sistemas operacionais
+
+python - linguagem de proposito geral 
+         facil e intuitivo
+         multiplataforma
+         batteries included - bibliotecas instaladas
+         codigo aberto - livre
+         organizada
+         O.O.
+         muitas bibliotecas
+
