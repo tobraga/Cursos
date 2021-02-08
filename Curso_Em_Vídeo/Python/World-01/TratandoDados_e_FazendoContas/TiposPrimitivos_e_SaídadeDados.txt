@@ -1,0 +1,28 @@
+# Tipos Primitivos
+
+# O exercicio 003 nao funciona corretamente
+num1 = (input('Entre com o 1º numero: '))
+num2 = (input('Entre com o 2º numero: '))
+soma = num1 + num2
+print ('Soma: '+ soma)
+# Pois ele faz uma concatenação
+
+# O modo certo seria....
+num1 = int(input('Entre com o 1º numero: '))
+num2 = int(input('Entre com o 2º numero: '))
+soma = num1 + num2
+print ('Soma: '+ soma)
+
+-------------------------------------------
+#Tipos Primitivos
+-------------------------------------------
+int     -   7  -4  0  9875 
+float   -   4.5   0.076   -15.223
+bool    -   True    False 
+str     -   'Olá'   '7'     ''
+-------------------------------------------
+
+# Usando o .format
+
+print('Soma vale', s)
+print('Soma vale {}'.format(s))
