@@ -1,0 +1,52 @@
+
+# Operadores Aritméticos
+
++       adição                          5 + 2 = 7
+-       subtração                       5 - 2 = 3
+*       multiplicação                   5 * 2 = 10
+/       divisão                         5 / 2 = 2.5
+
+-------------------------------------
+
+**      Potencia                        5 ** 2 = 25         Pode ser feita tambem - pow(4,3) = 64
+//      divisão inteira                 5 // 2 = 2
+%       módulo - resto da divisão       5 % 2 = 1
+
+-------------------------------------
+Ordem de Precedencia
+
+1   ()
+2   **
+3   * / // %
+4   + - 
+
+Ex:
+    5 + 3 * 2 = 11
+
+    3 * 5 + 4 ** 2 = 31
+
+    3 * (5 + 4) ** 2 = 243
+
+--------------------------------------
+Extras:
+
+print ('=' * 20) # imprimi 20 vezes o sinal de =
+
+O .format() - as chaves da função podem armazenar valores de posicionamento do texto
+    {:20} - faz aparecer a variavel em 20 caracteres
+    {:>20} - os 20 caracteres alinhado a direita
+    {:<20} - os 20 caracteres alinhado a esquerda
+    {:^20} - centralizado
+    {:=^20} - centralizado colocando o sinal de = em volta
+    
+    {:.2f} - mostra 3 casas decimais no ponto flutuante
+    
+Caso o texto esteja grande e no terminal apareça o texto quebrado...
+
+    print('Ao final do texto colocar {}!'.format(variavel), end='') - #end='' mantem tudo na mesma linha
+
+Para quebrar a linha
+
+    print('Texto \n Texto \n Texto')
+
+          
