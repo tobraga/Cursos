@@ -1,0 +1,31 @@
+* Modulos no Python
+
+- O python vem com módulos básicos para utilizar
+- podemos baixar vários módulos para utilizar funcionalidades desejadas
+
+** Para importar módulos
+
+1 - import <biblioteca>
+2 - from <biblioteca> import <modulo_especifico_da_biblioteca>
+
+** Módulos
+
+    - Math
+        - ceil          arredonda para cima
+        - floor         arredonda para baixo
+        - trunc         trunca o numero
+        - pow           potenciação
+        - sqrt          raiz quadrada
+        - factorial     fatorial
+
+    - Neste caso, podemos importar:
+        import math #importará toda a biblioteca
+        from math import ceil #importará apenas a funcionalidade "ceil" do módulo
+        ou
+        form math import ceil, sqrt #outro exemplo de importação específica
+
+    - Para estudar outras bibliotecas
+        Python.org
+        documentação
+        selecionar a versão
+        selecionar a biblioteca e ler a documentação
