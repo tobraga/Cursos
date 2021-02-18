@@ -69,9 +69,14 @@ No instante do processamento, os bytecodes são carregados para o sistema e veri
 
 Eição e compilação          --->    Programa Compilado            
 (javac <programafonte.java>)        java <programafonte.class>          
-    |------<------------------<----------------|
-    |
+
 __JVM__ |                                                               
 :---:|
 Bytecode Verifier
 Runtime
+
+* Estutura da JVM
+Edição e Composição de Programa Java |  Programa Fonte | Programa no Formato Bytecode                                                              
+:---:|:---:|:---:|:---:
+Estrutura da JVM | Class Loader (carregador de classe) | Bytecode Verifier (verificador de código) | Runtime (execução)
+Sistemas Operacionais | Windows, Linix, MAC OS
