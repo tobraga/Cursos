@@ -1,0 +1,19 @@
+Este cruso está estruturado em quatro capítulos:
+
+Capítulo 1: Introdução ao Java
+    Tópico 1: Introdução à Plataforma Java
+    Tópico 2: Programação em Java.
+
+Capítulo 2: Fundamentos da Linguagem Java
+    Tópico 1: Estrutura da Linguagem Java
+    Tópico 2: Operadores
+    Tópico 3: String, casting e Promoção.
+    
+Capítulo 3: Fluxos de Controle
+    Tópico 1: Desvios Condicionais ou Estrutura de Seleção (if-else)
+    Tópico 2: Laços de Repetição ou Estrutura de Repetição (while; do...while; for).
+
+Capítulo 4: Matriz, Métodos, Classes e Complementos
+    Tópico 1: Matriz/ Arrays
+    Tópico 2: Passagem de Argumento
+    Tópico 3: Classe Math.
