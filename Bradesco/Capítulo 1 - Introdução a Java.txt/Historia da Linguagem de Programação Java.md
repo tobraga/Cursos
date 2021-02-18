@@ -77,7 +77,8 @@ Runtime
 
 * Estutura da JVM
 
-Edição e Composição de Programa Java | Programa Fonte | Programa no Formato Bytecode                                                              
-:---: | :---: | :---: | :---:
+Edição e Composição de Programa Java | Programa Fonte | Prog no Frmt BCode                                                              
+
+:---: | :---: | :---: | :---: |
 Estrutura da JVM | Class Loader (carregador de classe) | Bytecode Verifier (verificador de código) | Runtime (execução)
 Sistemas Operacionais | Windows, Linix, MAC OS
