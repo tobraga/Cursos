@@ -24,8 +24,8 @@ Entre tantas linguagens de programação existentes, o Java deve ser visto como 
 
 Na atualidade, a maior parte dos aplicativos desenvolvidos para dispositivos móveis é desenvolvido em Java, o que faz com que os programadores que dominam essa linguagem sejam profissionais bastante procurados e valorizados no mercado de trabalho atual.
 
-    **9 bilhoes de Programadores**
-    **7 bilhoes de Dispositivos**
+**9 bilhoes de Programadores**
+**7 bilhoes de Dispositivos**
 
 ***
 # Processo de Compilação
