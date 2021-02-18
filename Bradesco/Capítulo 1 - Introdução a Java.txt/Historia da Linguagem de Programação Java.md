@@ -1,0 +1,46 @@
+# História do Java
+
+Cada linguagem de programação tem suas próprias história e finalidade, que justificam sua criação e disseminação.
+
+Você conhece a história do Java? Sabe dizer desde quando essa linguagem existe e o porquê de seu nome?
+
+Vamos, então, conhecer a história da linguagem de programação Java.
+
+* Java é uma lingaugem de programação Orientada a Objetos
+* Criada pela Sun Microsystem - 1990
+* J. Gosling
+* Compialada pela conversão da linguagem para ByteCode. 
+* Projetada para ser implementada em vários dispositivos
+* A plataforma foi lançada em 1995
+* A linguagem mais executada na história 
+
+***
+
+# Contexto Atual
+
+Em 2015, a linguagem Java completou 20 anos em pleno vigor. Para compreender os motivos que contribuíram para a conquista de tamanha importância no cenário atual, é preciso entender como o Java funciona e como se deu a evolução tecnológica do mundo nas últimas duas décadas.
+
+Entre tantas linguagens de programação existentes, o Java deve ser visto como uma linguagem de programação moderna que se adaptou muito bem à internet e aos chamados dispositivos móveis (tablets e smartphones).
+
+Na atualidade, a maior parte dos aplicativos desenvolvidos para dispositivos móveis é desenvolvido em Java, o que faz com que os programadores que dominam essa linguagem sejam profissionais bastante procurados e valorizados no mercado de trabalho atual.
+
+    **9 bilhoes de Programadores**
+    **7 bilhoes de Dispositivos**
+
+***
+# Processo de Compilação
+
+Tal como foi tratado no vídeo a que você acabou de assistir, para executar um programa, precisamos transformá-lo em uma linguagem de máquina ou linguagem de baixo nível. A linguagem de máquina é a linguagem que os computadores entendem.
+
+A transformação de linguagens é chamada de compilação. Nesse sentido, a compilação acontece quando um código é convertido de uma linguagem natural (linguagem de programação, código-fonte ou, ainda, linguagem humana) para uma linguagem de máquina (linguagem de baixo nível).
+
+No Java, o código-fonte é transformado em bytecode, que é a linguagem entendida e executada pela Máquina Virtual Java (Java Virtual Machine – JVM).
+
+* Compilação na maioria dos programas
+Codigo fonte (ling. Alto Nivel) --> Compilador --> Cod. executavel (Ling. de Maquina) 
+
+* Compilação no Java
+Codigo fonte (ling. Alto Nivel) --> JavaC (Compilador Java) --> ByteCode --> JVM --> Cod. executavel (Ling. de Maquina) 
+
+***
+# Maquina Virtual Java
