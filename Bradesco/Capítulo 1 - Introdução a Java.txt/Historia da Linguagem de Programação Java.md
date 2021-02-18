@@ -44,3 +44,30 @@ Codigo fonte (ling. Alto Nivel) --> JavaC (Compilador Java) --> ByteCode --> JVM
 
 ***
 # Maquina Virtual Java
+
+Para desenvolver e processar programas escritos em Java, temos de compreender o que é uma JVM – Java Virtual Machine (Máquina Virtual Java).
+* A JVM é fundamental para o pleno funcionamento dos códigos feitos na linguagem de programação Java.
+Lembre-se de que os **bytecodes** (códigos compilados em Java) são interpretados e executados pela JVM. Isso significa que, sem a JVM, os programas em Java simplesmente não funcionam.
+
+* A JVM é composta por:
+    * Instruções;
+    * Registradores;
+    * Pilha;
+    * Garbage-collected heap
+    * Área de Memória (armazenamento de métodos).
+
+* Composição da JVM
+    * As funções da Java Virtual Machine (Máquina Virtual Java) são: 
+
+        [] Acompanhar e proteger todas as classes do programa.
+        [] Verificar as especificações da Java Virtual Machine para gerar os bytecodes sem transgredir a integridade e a segurança da plataforma.
+        [] Interpretar os códigos compilados para as Máquinas Virtuais (bytecode).
+
+No instante do processamento, os bytecodes são carregados para o sistema e verificados por meio de um recurso identificado como Bytecode Verifier para serem processados.
+
+* Fluxo de Acesso a JVM
+
+Eição e compilação          --->    Programa Compilado          --->   | JVM |
+(javac <programafonte.java>)        java <programafonte.class>         |:---:|
+                                                                        Bytecode Verifier
+                                                                        Runtime
