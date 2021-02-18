@@ -67,9 +67,9 @@ No instante do processamento, os bytecodes são carregados para o sistema e veri
 
 * Fluxo de Acesso a JVM
 
-Eição e compilação          --->    Programa Compilado          -------¬  
-(javac <programafonte.java>)        java <programafonte.class>         | 
-JVM |                                                           <------|      
+Eição e compilação          --->    Programa Compilado            
+(javac <programafonte.java>)        java <programafonte.class>          
+JVM |                                                               
 :---:|
 Bytecode Verifier
 Runtime
